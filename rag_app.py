@@ -156,7 +156,7 @@ def load_retriever():
     return healthvdb.as_retriever(
         search_type="mmr",
         search_kwargs={
-            "k": 4,
+            "k": 6,
             "fetch_k": 10
         }
     )
