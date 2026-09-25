@@ -203,7 +203,6 @@ Question:
 {question}
 
 Instructions:
-- Answer based primarily on the provided context.
 - Do not invent information that is not supported by the context.
 - If the answer cannot be found in the context, clearly say that
   the information is not available in the provided knowledge base.
